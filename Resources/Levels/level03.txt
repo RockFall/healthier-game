@@ -1,0 +1,5 @@
+30
+N N V N V N N
+N V V N V V N
+V V V N V V V
+N V N V N V N
